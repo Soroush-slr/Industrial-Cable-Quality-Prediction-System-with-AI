@@ -1,2 +1,1 @@
-# Industrial-Conductor & Cable -Quality-Prediction-System-with-AI
-An end-to-end Machine Learning solution designed for Conductor &amp; Cable Products manufacturing plants.  This system predicts final cable quality into three categories (`Low`, `Medium`, `High`) based on extrusion and manufacturing parameters. It features a modern desktop application (GUI) built with PySide6, complete with SHAP feature importance.
+
